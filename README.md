@@ -24,8 +24,6 @@
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3 logo" />
 
-  <!-- Raylib -->
-  <img src="https://cdn.jsdelivr.net/gh/raysan5/raylib/logo/raylib_logo.svg" width="40" height="40" alt="Raylib logo" />
 </p>
 
 
