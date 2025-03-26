@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git logo" />
 </p>
 
-### 📂 projects
+### 📂 projects:
 
 📌 [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)  
 
