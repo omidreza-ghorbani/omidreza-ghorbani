@@ -1,5 +1,4 @@
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidreza-ghorbani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 <p align="left">
@@ -35,7 +34,7 @@
 
 ## 
 
-### 📂 projects:
+### 📂 Projects
 
 📌 [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)  
 
