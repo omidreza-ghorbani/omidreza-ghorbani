@@ -32,7 +32,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo" width="40" height="40" alt="Git logo"/>
   
-    <!-- Git -->
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git logo" />
 </p>
 
