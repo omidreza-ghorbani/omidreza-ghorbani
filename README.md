@@ -1,9 +1,9 @@
 ##
 ### 📂 Projects
 
-📌 [Library Management System](https://github.com/omidreza-ghorbani/Library-Management) 
+📌 [Library Management System](https://github.com/omidreza-ghorbani/Library-Management) : AP Practice for Managing a Library
 
-📌 [SnapFood](https://github.com/omidreza-ghorbani/Ap-project) 
+📌 [SnapFood](https://github.com/omidreza-ghorbani/Ap-project) : Ap project
 
 ## Programming Languages
 <p align="left">
