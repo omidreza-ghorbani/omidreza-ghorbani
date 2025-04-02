@@ -1,5 +1,5 @@
 ##
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidreza-ghorbani&layout=compact&theme=radical&cache_seconds=30)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming Languages
 <p align="left">
