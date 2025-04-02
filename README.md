@@ -3,7 +3,9 @@
 
 📌 [Library Management System](https://github.com/omidreza-ghorbani/Library-Management) : AP Practice for Managing a Library
 
-📌 [SnapFood](https://github.com/omidreza-ghorbani/Ap-project) : Ap project
+📌 [SnapFood](https://github.com/omidreza-ghorbani/Ap-project) : BP project
+
+📌 [SnapFood](https://github.com/omidreza-ghorbani/Ap-project) : AP project
 
 ## Programming Languages
 <p align="left">
