@@ -5,7 +5,7 @@
 
 📌 [Pac-Man](https://github.com/omidreza-ghorbani/Ap-project) : BP project {Completing...}
 
-📌 [SnapFood](https://github.com/omidreza-ghorbani/Ap-project) : AP project {Completing...}
+📌 [SnappFood](https://github.com/omidreza-ghorbani/Ap-project) : AP project {Completing...}
 
 ## Programming Languages
 <p align="left">
