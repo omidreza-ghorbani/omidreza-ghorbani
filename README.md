@@ -3,7 +3,7 @@
 
 📌 [Library Management System](https://github.com/omidreza-ghorbani/Library-Management) : AP Practice for Managing a Library
 
-📌 [Pac-Man](https://github.com/omidreza-ghorbani/Ap-project) : BP project {Completing...}
+📌 [Pac-Man](https://github.com/omidreza-ghorbani/pacman) : BP project
 
 📌 [SnappFood](https://github.com/omidreza-ghorbani/Ap-project) : AP project {Completing...}
 
