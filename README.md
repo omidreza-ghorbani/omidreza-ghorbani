@@ -1,7 +1,7 @@
 ##
 ### 📂 Projects
 
-📌 AP Practice for Managing a Library : [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)
+📌 AP Practice : [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)
 
 📌 BP project : [Pac-Man](https://github.com/omidreza-ghorbani/pacman)
 
