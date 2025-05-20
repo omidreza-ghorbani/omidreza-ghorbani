@@ -1,13 +1,12 @@
 ##
 ### 📂 Projects
 
-📌 [AP Practice for Managing a Library](https://github.com/omidreza-ghorbani/Library-Management) : Library Management System
+📌 AP Practice for Managing a Library : [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)
 
-📌 [BP project](https://github.com/omidreza-ghorbani/pacman) : Pac-Man
+📌 BP project : [Pac-Man](https://github.com/omidreza-ghorbani/pacman)
 
-📌 [AP project](https://github.com/omidreza-ghorbani/Ap-project) :  SnappFood(Backend) {Completing...} 
-
-📌 [AP project](https://github.com/omidreza-ghorbani/Ap-project) :  SnappFood(Frontend) {Completing...} 
+📌 AP project:  [SnappFood(Backend)](https://github.com/omidreza-ghorbani/Ap-project) {Completing...} 
+                [SnappFood(Frontend)](https://github.com/omidreza-ghorbani/Ap-project) {Completing...} 
 
 
 ## Programming Languages
