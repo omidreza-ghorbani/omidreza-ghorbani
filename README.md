@@ -5,9 +5,9 @@
 
 📌 [BP project](https://github.com/omidreza-ghorbani/pacman) : Pac-Man
 
-📌 [AP project](https://github.com/omidreza-ghorbani/Ap-project) :  SnappFood(Backend){Completing...} 
+📌 [AP project](https://github.com/omidreza-ghorbani/Ap-project) :  SnappFood(Backend) {Completing...} 
 
-📌 [AP project](https://github.com/omidreza-ghorbani/Ap-project) :  SnappFood(Frontend){Completing...} 
+📌 [AP project](https://github.com/omidreza-ghorbani/Ap-project) :  SnappFood(Frontend) {Completing...} 
 
 
 ## Programming Languages
