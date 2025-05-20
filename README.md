@@ -4,7 +4,7 @@
 
 📌 AP project :  [SnappFood (Backend)](https://github.com/omidreza-ghorbani/SnappFood-Back) 
 
-📌 AP project : [SnappFood (Frontend)](https://github.com/omidreza-ghorbani/SnappFood-Front.git)  
+📌 AP project : [SnappFood (Frontend)](https://github.com/omidreza-ghorbani/SnappFood-Front)  
 
 📌 BP project : [Pac-Man](https://github.com/omidreza-ghorbani/pacman)
 
