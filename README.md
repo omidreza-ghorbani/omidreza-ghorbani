@@ -8,7 +8,7 @@
 
 📌 DS project : [Bank Management System focused on performance and data structure usage](https://github.com/omidreza-ghorbani/SnappFood-Front)
 
-📌 BP project : [Pac-Man](https://github.com/omidreza-ghorbani/pacman)
+📌 BP project : [Pac-Man Game](https://github.com/omidreza-ghorbani/pacman)
 
 📌 AP Practice : [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)
 
