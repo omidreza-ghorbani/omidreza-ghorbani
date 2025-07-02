@@ -10,7 +10,7 @@
 
 📌 AP Practice : [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)
 
-📌 Data Structure project : [Bank Management System focused on performance and data structure usage](https://github.com/omidreza-ghorbani/Bank-Management-System)
+📌 Data Structure project : [Bank Management System focused on performance](https://github.com/omidreza-ghorbani/Bank-Management-System)
 
 
 
