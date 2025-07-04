@@ -1,19 +1,3 @@
-##
-### 📂 Projects:
-
-
-📌 BP project : [Pac-Man Game](https://github.com/omidreza-ghorbani/pacman)
-
-📌 AP project :  [SnappFood (Backend)](https://github.com/omidreza-ghorbani/SnappFood-Back) 
-
-📌 AP project : [SnappFood (Frontend)](https://github.com/omidreza-ghorbani/SnappFood-Front)
-
-📌 AP Practice : [Library Management System](https://github.com/omidreza-ghorbani/Library-Management)
-
-📌 Data Structure project : [Bank Management System focused on performance](https://github.com/omidreza-ghorbani/Bank-Management-System)
-
-
-
 ## Programming Languages
 <p align="left">
   <!-- Python -->
